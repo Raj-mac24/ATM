@@ -1,27 +1,4 @@
-/*
-        OOP Innovative Assignment
 
-        submitted by
-
-        Parv Patel  19BCE190
-        Raj Patel   19BCE193
-        Sahil Patel 19BCE194
-
-            to      
-                Prof. Kavita Tevani
-        
-        Topic: - Implementation of ATM using Binary 
-                 Search Tree
-        
-        Outline:
-        1. We have used binary search tree to handle the data of accounts
-        2. We have created a binary_search_tree class to create tree and
-            defined all the necessary methods into it 
-        3. We have also used a file to read to all the data 
-        4. basic operations like withdrawl, deposit, pin change and mini statement
-            (datails) print can be done
-
-*/
 import atm.ATM;
 import java.util.*;
 
