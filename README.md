@@ -7,10 +7,10 @@ Concepts utilized:
   -Inheritence
   
 Functions:
-  -Deposite
-  -Withdrawal
-  -Change Pin
-  -Details printing
+  - Deposite
+  - Withdrawal
+  - Change Pin
+  - Details
  
  Note: All accounts details are in input.txt in formatted manner. You can add accounts their.
  
